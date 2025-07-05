@@ -1,0 +1,26 @@
+{
+  "name": "code-glasses-calm-vision",
+  "displayName": "Code Glasses – Calm Vision",
+  "description": "A premium VS Code theme inspired by Material You and Glassmorphism. Soothing pastels, modern contrast, and clear focus – welcome to Calm Vision.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Code Glasses - Vision",
+        "uiTheme": "vs-dark",
+        "path": "./themes/code-glasses-vision.json"
+      },
+      {
+        "label": "Code Glasses - Architect",
+        "uiTheme": "vs-dark",
+        "path": "./themes/code-glasses-architect.json"
+      }
+    ]
+  }
+}

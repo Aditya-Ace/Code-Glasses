@@ -1,7 +1,7 @@
 # 🎨 Code Glasses VS Code Themes
 
-[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/Aditya-Ace.Code-Glasses?style=for-the-badge&label=Marketplace)](https://marketplace.visualstudio.com/items?itemName=Aditya-Ace.Code-Glasses)
-[![Downloads](https://img.shields.io/visual-studio-marketplace/d/Aditya-Ace.Code-Glasses?style=for-the-badge&color=blue)](https://marketplace.visualstudio.com/items?itemName=Aditya-Ace.Code-Glasses)
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/Aditya-Ace.Code-Glasses?style=for-the-badge&label=Marketplace)](https://marketplace.visualstudio.com/items?itemName=shaant-shakti.code-glasses)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/Aditya-Ace.Code-Glasses?style=for-the-badge&color=blue)](https://marketplace.visualstudio.com/items?itemName=shaant-shakti.code-glasses)
 [![GitHub Stars](https://img.shields.io/github/stars/Aditya-Ace/Code-Glasses?style=for-the-badge&logo=github)](https://github.com/Aditya-Ace/Code-Glasses)
 [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 

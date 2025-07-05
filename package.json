@@ -1,13 +1,36 @@
 {
-  "name": "code-glasses-calm-vision",
+  "name": "code-glasses",
   "displayName": "Code Glasses – Calm Vision",
-  "description": "A premium VS Code theme inspired by Material You and Glassmorphism. Soothing pastels, modern contrast, and clear focus – welcome to Calm Vision.",
+  "description": "A sophisticated duo of VS Code themes, meticulously crafted for calm focus and architectural clarity.",
   "version": "0.0.1",
+  "publisher": "Code Glasses",
   "engines": {
     "vscode": "^1.101.0"
   },
   "categories": [
     "Themes"
+  ],
+  "license": "MIT",
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aditya-Ace/Code-Glasses.git"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "calm",
+    "spiritual",
+    "peace",
+    "developer",
+    "coding",
+    "focus",
+    "hacker",
+    "Materialistic",
+    "Material U",
+    "Material You",
+    "Vision",
+    "Architect"
   ],
   "contributes": {
     "themes": [

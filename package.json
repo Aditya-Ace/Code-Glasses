@@ -2,7 +2,7 @@
   "name": "code-glasses",
   "displayName": "Code Glasses",
   "description": "A sophisticated duo of VS Code themes, meticulously crafted for calm focus and architectural clarity.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "shaant-shakti",
   "engines": {
     "vscode": "^1.101.0"
